@@ -13,6 +13,12 @@ Automate the testing of various sections of Book listing website (https://books.
 7. Breadcrumbs last portion should be same as the header.
 8. Match Product details with product information: availability, price.
 
+# Technologies and Method Used
+
+- JavaScript
+- Cypress
+- End-to-End (E2E) Testing
+
 
 # Installation
 
