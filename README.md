@@ -30,14 +30,14 @@ To run this test project locally, follow these steps :
     git clone https://github.com/Aftahiislam007/BookListTesting.git
     ```
 
-2. <b>Second Step - </b> Using `npm` to Instantly Initialize a Project 
+2. <b>Second Step (if needed) - </b> Using `npm` to Instantly Initialize a Project 
  and it will create `package-lock.json` and `package.json` files :
     
     ```bash
     npm init -y
     ```
 
-3. <b>Third Step - </b> Install Cypress via `npm` :
+3. <b>Third Step (if needed) - </b> Install Cypress via `npm` :
    
    ```bash
     cd Books
@@ -47,7 +47,7 @@ To run this test project locally, follow these steps :
     npm install cypress --save-dev
     ```
 
-4. <b>Fourth Step - </b> Adding npm Scripts in `package.json` file :
+4. <b>Fourth Step (if needed) - </b> Adding npm Scripts in `package.json` file :
    
    ```js
     {
